@@ -40,6 +40,6 @@ public class HomeFragment extends BaseFragment implements View.OnClickListener {
 
     @Override
     public void onClick(View v) {
-        Toast.makeText(getActivity(),"欢迎使用Android系统！",Toast.LENGTH_SHORT).show();
+        Toast.makeText(getActivity(),"欢迎使用Android系统！哈哈!不错不second哦!",Toast.LENGTH_SHORT).show();
     }
 }
